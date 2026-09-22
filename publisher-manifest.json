@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d2805f3a6615b6af8ec460cd",
+  "owner": "feaucgxrkrt",
+  "repo": "page-7a6627f4dc4546c91afd6d59",
+  "title": "FireUnicorn",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7a6627f4dc4546c91afd6d59",
+      "a": "FireUnicorn",
+      "b": "稳定全球clash加速器",
+      "entity": "FireUnicorn",
+      "brand": "FireUnicorn",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "063bc361258509b62199680b1ed5a5f32f8fda99daefb16ca9df5ec3a4db52c3",
+      "content": {
+        "primary_entity": "FireUnicorn",
+        "keyword1": "FireUnicorn",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择 Clash 客户端：Windows 用 Clash Verge，macOS 用 ClashX Pro，Android 用 Clash Meta，iOS 用 Stash。",
+          "AI_CLIENTS_TITLE": "适配客户端清单",
+          "AI_CLOSING_TEXT": "选择适合设备数量的套餐，按客户端文档导入订阅，开始高效连接。",
+          "AI_CLOSING_TITLE": "即刻配置 FireUnicorn",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档套餐，月付 ¥15 起，分别覆盖 100GB 至 1000GB 流量与 3 至 20 台设备。Clash 客户端在 Windows、macOS、Android 与 iOS 上可依设备文档配置订阅，旗舰版含 IPLC 专线并优化游戏延迟，团队版支持企业定制路由与专属客户经理。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路等级切入，帮您快速匹配套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "Clash 客户端在 Windows、macOS、Android 与 iOS 上可导入订阅，请对照所选用客户端文档完成配置。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "客户端适配选择",
+          "AI_FEATURE_TITLE_3": "订阅周期与价格",
+          "AI_GUIDE_INTRO": "先选定套餐，再核对设备数量与客户端要求，最后导入订阅开始使用。",
+          "AI_GUIDE_TITLE": "三步完成选择与配置",
+          "AI_HERO_INTRO": "FireUnicorn 提供面向 Clash 客户端的海外加速订阅，三档套餐覆盖个人到团队场景，结合流量、设备数与线路等级选择。",
+          "AI_HERO_SUBTITLE": "多设备 Clash 加速订阅",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量，3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，300GB 流量，5 台设备",
+          "AI_HIGHLIGHT_3": "团队版月付 ¥85，支持 20 台设备",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与线路，按使用人数与场景选择。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据使用人数与月流量需求，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与线路类型，核对是否满足需要。",
+          "AI_STEP_TEXT_3": "依据 Clash 客户端文档导入订阅链接，完成节点选择与连接。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "FireUnicorn 加速订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。如果需要手机、电脑、平板同时使用，建议从旗舰版起步。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。按年付分别只需 ¥150/年、¥350/年、¥850/年，比月付更划算。",
+          "AI_FAQ_ANSWER_3": "在对应客户端中新建订阅，粘贴购买后获取的订阅地址，更新节点后选择延迟较低的线路连接即可。不同客户端操作路径略有差异，可参考客户端自带文档。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版配备 VIP 专属高带宽节点。基础版解锁基础流媒体，适合日常浏览与轻度视频。",
+          "AI_FAQ_ANSWER_5": "月付与年付均可选择，年付价格更低。订阅周期到期后按需续费，套餐升级可联系工单或专属客户经理处理。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "不同套餐的流量与价格有什么区别？",
+          "AI_FAQ_QUESTION_3": "订阅地址应该如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "流媒体和游戏加速适合选哪个套餐？",
+          "AI_FAQ_QUESTION_5": "套餐可以按月付还是按年付？",
+          "AI_FAQ_TITLE": "常见问题解答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bqspt.cn",
+    "host": "bqspt.cn"
+  },
+  "file_hashes": {
+    "index.html": "b72106fc589c2d6775a522c5743acc446b7d699215c278eb05fa6b48731090f7",
+    "sitemap.xml": "eccb73411267c024e428d37da586ad958d8e5e1eaaf2665d32813dd9b0ae9182",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "88ef6c8267ea66498e5971fc7d1acf056ca22e91a8516b2a4786e9aabf8eba09",
+    "robots.txt": "4257f5c7738c93f62a9f4d5dbc2761866fc36770371e47621043eb4158c5b199",
+    "6ceddbc3907a1d29cc02b13ee7ecfe7a.txt": "8fe9c6b4f7faeff81a69cee8a238300158a8bd316536af07493c2a51dd87aed4"
+  },
+  "revision": "a9e4ce9458c751b16d34973341bcff9ffd3c3c7e6e2738841fe45082cd9fb275"
+}
